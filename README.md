@@ -3,6 +3,5 @@ This repository is created under the LetsPy Delhi Community to share all the stu
 
 Link for sessions: 
       1. Mridu Bhatnagar https://bit.ly/2TYsVVc
-      2. Karmanya Aggarwal: 
-      3. Rashmi Nagpal: https://github.com/RN0311/letspy
-      4. Sarah Masud: https://github.com/sara-02/pradarshan/tree/master/IIIT_D
+      2. Rashmi Nagpal: https://github.com/RN0311/letspy
+      3. Sarah Masud: https://github.com/sara-02/pradarshan/tree/master/IIIT_D
